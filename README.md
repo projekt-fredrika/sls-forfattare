@@ -11,7 +11,7 @@ Described in more detail on project pages:
 
 **Intro:** Vibe coded python script convert publication PDFs to markdown and csv files. Matches writers with existing Wikidata objects, and adds Wikipedia stats for easier prioritization of what Wikipedia articles to work on.
 
-1. Prepare by acquiring scanned books and placing them in folder ```material```
+1. Prepare by acquiring PDF with OCR text of scanned books and placing them in folder ```material```
 
 * Suomen kirjailijat 1917-1944.pdf
 * Suomen kirjailijat 1945-1980.pdf
@@ -37,4 +37,4 @@ pip3 install pdfplumber
 * Use google to search for remaning rows not matched.
 
 7. Run ```python 05_fetchstats.py``` to add Wikipedia article lengths and article views. 
-* Start working on actually imporvoing the content! 
+* Start working on actually improving the content! 
