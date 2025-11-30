@@ -1,7 +1,7 @@
 import pdfplumber
 import csv
 
-path = "/Users/robertsilen/Dropbox/Projekt Fredrika/Projekt Fredrika r.f./Forfattare/1945/Suomen kirjailijat 1945-1980.pdf"
+path = "material/Suomen kirjailijat 1945-1980.pdf"
 pages = "13-827"
 skip_pages = "433-480"
 page_limit = -1
