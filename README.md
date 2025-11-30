@@ -2,6 +2,8 @@
 
 A project to use book series **Finland's writers** to improve Wikipedia och Wikidata. 
 
+Scripts in this repo convert scanned OCR PDFs to markdown and csv for further use. 
+
 Described in more detail on project pages: 
 * https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika/SLS-Författare-1809
 * https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika/SLS-Författare-1917
