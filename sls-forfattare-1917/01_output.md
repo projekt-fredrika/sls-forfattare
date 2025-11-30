@@ -54765,7 +54765,7 @@ voja-Aika 1937 s. 143—146; Akseli Tola: Taakseni
 jäänyttä taivaanrantaa. Me kerromme itsestämme. H:ki
 1946 s. 368—376
 
-## Tollet, Håkan Conrad
+## Tollet, Håkan Conrad Constantin
 Ivar Bleke
 
 20.10.1904 Viipuri. Vht pörssimeklari Carl Johan
