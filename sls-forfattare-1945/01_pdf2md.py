@@ -1,7 +1,7 @@
 import pdfplumber
 import csv
 
-path = "material/Suomen kirjailijat 1945-1980.pdf"
+path = "../material/Suomen kirjailijat 1945-1980.pdf"
 pages = "13-827"
 skip_pages = "433-480"
 page_limit = -1

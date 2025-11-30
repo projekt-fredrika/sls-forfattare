@@ -17896,7 +17896,7 @@ Routavuodet. Romaani. .Juva 1981. WS
 lä AI 26.9.75; Pekka Tarkka HS 10.10.75; Lauri Vesaaja
 ESS 15.10.75; Risto Koivisto Parn. 1975 s. 490
 
-## Hulden, Elis Evert
+## Huldén, Elis Evert
 B.V.
 
 23.6.1895 Munsala — 26.11.1967 Vaasa. Vht he-
@@ -17996,7 +17996,7 @@ Torvalds, Ole: Bondeskalden Evert Hulden. ÄU
 Warburton, Thomas: Ättio är finlandssvensk litteratur.
 Jakobstad 1984 s. 273—276
 
-## Hulden, Lars Evert
+## Huldén, Lars Evert
 
 5.2.1926 Pietarsaari. Vht maanvilj., kirjailija Elis
 Evert Hulden ja op. Ester Sofia Nyvik. Puoliso
